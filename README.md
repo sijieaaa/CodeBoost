@@ -3,7 +3,7 @@
 </div>
 
 
-# CodeBoost
+# ⚡CodeBoost
 CodeBoost: Boosting Code LLMs by Squeezing Knowledge from Code Snippets with RL
 
 [[arxiv]]()
@@ -13,7 +13,7 @@ CodeBoost: Boosting Code LLMs by Squeezing Knowledge from Code Snippets with RL
 </div>
 
 
-## Installation
+## 🛠️ Installation
 
 System
 ```
@@ -88,7 +88,7 @@ pip install tree-sitter tree-sitter-python
 ```
 
 
-## Run
+## 🔥 Run
 Download Datasets+LLM Weights
 ```bash
 # LLM E.g. Qwen/Qwen2.5-Coder-3B-Instruct
@@ -114,6 +114,6 @@ You need to change to your own experiment names and global steps.
 
 
 
-## Citation
+## ⭐ Citation
 ```
 ```

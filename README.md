@@ -9,7 +9,7 @@ CodeBoost: Boosting Code LLMs by Squeezing Knowledge from Code Snippets with RL
 [[arxiv]]()
 
 <div align="center">
-  <img src="assets/main_table.png" width="600px">
+  <img src="assets/main_table.png" width="800px">
 </div>
 
 

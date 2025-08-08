@@ -8,7 +8,7 @@ CodeBoost: Boosting Code LLMs by Squeezing Knowledge from Code Snippets with RL
 
 Code large language models (LLMs) have become indispensable tools for building efficient and automated coding pipelines. Existing models are typically post-trained using reinforcement learning (RL) from general-purpose LLMs using "human instruction-final answer" pairs, where the instructions are usually from manual annotations. However, collecting high-quality coding instructions is both labor-intensive and difficult to scale. On the other hand, code snippets are abundantly available from various sources. This imbalance presents a major bottleneck in instruction-based post-training. We propose CodeBoost, a post-training framework that enhances code LLMs purely from code snippets, without relying on human-annotated instructions. Extensive experiments across several code LLMs and benchmarks verify that CodeBoost consistently improves performance, demonstrating its effectiveness as a scalable and effective training pipeline. 
 
-[[arxiv]]()
+[[arxiv]](http://arxiv.org/abs/2508.05242)
 
 <div align="center">
   <img src="assets/main_table.png" width="800px">

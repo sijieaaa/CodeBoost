@@ -117,5 +117,12 @@ You need to change to your own experiment names and global steps.
 
 
 ## ⭐ Citation
+If you find this repo useful, kindly please give us a citation.😊
 ```
+@article{wang2025codeboost,
+  title={CodeBoost: Boosting Code LLMs by Squeezing Knowledge from Code Snippets with RL},
+  author={Wang, Sijie and Guo, Quanjiang and Zhao, Kai and Zhang, Yawei and Li, Xin and Li, Xiang and Li, Siqi and She, Rui and Yu, Shangshu and Tay, Wee Peng},
+  journal={arXiv preprint arXiv:2508.05242},
+  year={2025}
+}
 ```
